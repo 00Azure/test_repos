@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|c:\\users\\azurnari(jim)\\source\\repos\\2nd year source codes\\testcodes\\oopcodetesting\\logintest\\logintest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|solutionrelative:logintest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\LogIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|solutionrelative:LoginTest\\LogIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|solutionrelative:LoginTest\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\logintest\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|solutionrelative:logintest\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\logintest\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5515A112-15A5-41B8-8149-58260DD8E72C}|LoginTest\\LoginTest.csproj|solutionrelative:logintest\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Register.cs",
+              "RelativeDocumentMoniker": "LoginTest\\Register.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Register.cs",
+              "RelativeToolTip": "LoginTest\\Register.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:37:27.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\LogIn.cs",
+              "RelativeDocumentMoniker": "LoginTest\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\LogIn.cs",
+              "RelativeToolTip": "LoginTest\\LogIn.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:27:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Register.cs",
+              "RelativeDocumentMoniker": "LoginTest\\Register.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Register.cs [Design]",
+              "RelativeToolTip": "LoginTest\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:26:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\LogIn.cs",
+              "RelativeDocumentMoniker": "LoginTest\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\LogIn.cs [Design]",
+              "RelativeToolTip": "LoginTest\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:26:54.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Program.cs",
+              "RelativeDocumentMoniker": "LoginTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\OOPCodeTesting\\LoginTest\\LoginTest\\Program.cs",
+              "RelativeToolTip": "LoginTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:01:51.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

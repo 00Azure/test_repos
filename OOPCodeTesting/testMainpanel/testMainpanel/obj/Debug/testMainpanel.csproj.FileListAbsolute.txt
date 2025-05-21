@@ -1,0 +1,26 @@
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\bin\Debug\testMainpanel.exe.config
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\bin\Debug\testMainpanel.exe
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\bin\Debug\testMainpanel.pdb
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.AssemblyReference.cache
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.Form1.resources
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.Properties.Resources.resources
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test1.resources
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test2.resources
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test3.resources
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.GenerateResource.cache
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.CoreCompileInputs.cache
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.exe
+C:\Users\Azurnari(Jim)\Documents\OOP\testMainpanel\testMainpanel\obj\Debug\testMainpanel.pdb
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\bin\Debug\testMainpanel.exe.config
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\bin\Debug\testMainpanel.exe
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\bin\Debug\testMainpanel.pdb
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.AssemblyReference.cache
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.Form1.resources
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.Properties.Resources.resources
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test1.resources
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test2.resources
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.test3.resources
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.GenerateResource.cache
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.csproj.CoreCompileInputs.cache
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.exe
+C:\Users\Azurnari(Jim)\source\repos\2nd Year Source Codes\testCodes\OOPCodeTesting\testMainpanel\testMainpanel\obj\Debug\testMainpanel.pdb
