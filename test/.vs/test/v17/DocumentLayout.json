@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBEBEA-0F81-406F-819B-3B6ABFCBCF5A}|test\\test.csproj|c:\\users\\azurnari(jim)\\source\\repos\\2nd year source codes\\testcodes\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBEBEA-0F81-406F-819B-3B6ABFCBCF5A}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\Users\\Azurnari(Jim)\\source\\repos\\2nd Year Source Codes\\testCodes\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:43:50.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
